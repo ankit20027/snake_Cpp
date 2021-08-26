@@ -137,7 +137,7 @@ void logic() {
 	}
 
 }
-// some random comment
+
 int main() {
 	start();
 	while (!gameOver) {
